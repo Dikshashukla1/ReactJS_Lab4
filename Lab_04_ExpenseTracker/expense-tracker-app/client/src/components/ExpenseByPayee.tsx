@@ -1,6 +1,6 @@
 
 // access to expense-items [add the type]
-// Get the list of unique payee names [Rahul, Ramesh]
+// Get the list of unique payee names [Alpha, Delta]
 // Get the contributing amount for a given payee (payee name)
 // Get the total expense
 // Table to show the data
@@ -62,24 +62,24 @@ const ExpenseByPayee = ({expenseItems} : ExpenseByPayeeModel) => {
     }
 
     // scenario-1
-    // rahul ramesh
+    // Alpha Delta
     // total expenses = 700
     // rahul - 100
 
     //
     // 700 - 350 / 350
-    // rahul - 350 
+    // Alpha - 350 
     //       - 100
 
     // 250
 
-    // rahul ramesh
+    // Alpha Delta
     // total expenses = 700
-    // rahul - 410
+    // Alpha  - 410
 
     //
     // 700 - 350 / 350
-    // rahul - 410 
+    // Delta - 410 
     //       - 350
 
     // -60
