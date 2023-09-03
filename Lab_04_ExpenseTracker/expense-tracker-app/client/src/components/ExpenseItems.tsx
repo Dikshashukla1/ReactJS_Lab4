@@ -13,21 +13,21 @@ const ExpenseItems = ({expenseItems} : ExpenseItemsModel) => {
 
     {
       "expenseDescription": "Internet Expenses",
-      "payeeName": "Ramesh",
+      "payeeName": "Alpha",
       "price": 1100,
       "date": "2023-02-26T00:00:00.000Z",
       "id": 1
     },
     {
       "expenseDescription": "Bike Maintainence Expenses",
-      "payeeName": "Rahul",
+      "payeeName": "Delta",
       "price": 3500,
       "date": "2023-02-26T00:00:00.000Z",
       "id": 2
     },
     {
       "expenseDescription": "Electricity Bill - Nov Month",
-      "payeeName": "Ramesh",
+      "payeeName": "Alpha",
       "price": 2200,
       "date": "2023-02-26T00:00:00.000Z",
       "id": 3
