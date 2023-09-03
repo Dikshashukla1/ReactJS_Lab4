@@ -64,7 +64,7 @@ const ExpenseByPayee = ({expenseItems} : ExpenseByPayeeModel) => {
     // scenario-1
     // Alpha Delta
     // total expenses = 700
-    // rahul - 100
+    // Alpha - 100
 
     //
     // 700 - 350 / 350
